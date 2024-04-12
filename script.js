@@ -11,9 +11,7 @@ const goHomeBtn= document.querySelector('.goHome-btn')
 
 
 
-startBtn.onclick = () => {
-    popupInfo.classList.add('active');
-    main.classList.add('active');
+
 }
 
 exitBtn.onclick = () => {
