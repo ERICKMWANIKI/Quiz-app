@@ -414,6 +414,9 @@ body{
     color:#feda6a;
 }
 
-
+.buttons button:nth-child(2):hover{
+    background:#feda6a;
+    color:#fff
+}
 
     
