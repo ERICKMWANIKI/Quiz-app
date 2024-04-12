@@ -6,7 +6,7 @@
 }
 body{
     color: #fff;
-    background: #09001d;
+    background: #002D62;
     overflow: hidden;
 }
 .header{
@@ -35,7 +35,7 @@ body{
 }
 .main {
     min-height: 100vh;
-    background-color: #1d1e22;
+    background-color: #002D62;
     background-size:cover;
     background-position: center;
     pointer-events: auto;
