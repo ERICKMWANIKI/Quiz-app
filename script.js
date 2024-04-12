@@ -155,7 +155,7 @@ function showResultBox() {
         progressStartValue++;
       
         progressValue.textContent = `${progressStartValue}%`;
-        circularprogress.style.background = `conic-gradient(#feda6a ${progressStartValue * 3.6}deg, rgba(255,255,255, .1)0deg)`;
+        circularprogress.style.background = `conic-gradient(#feda6a ${progressStartValue * 3.6}
 
         if(progressStartValue == progressEndValue){
             clearInterval(progress);
