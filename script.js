@@ -36,13 +36,7 @@ tryAgainBtn.onclick = () => {
     nextBtn.classList.remove('active');
     resultBox.classList.remove('active');
 
-     questionCount = 0;
-     questionNumb = 1;
-     userScore = 0;
-     showQuestions(questionCount);
-     questionCounter(questionNumb);
-
-     headerscore();
+     
    
 }
 
