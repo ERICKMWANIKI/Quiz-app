@@ -390,19 +390,7 @@ body{
 
 }
 
-.buttons button {
-    width: 130px;
-    height:47px;
-    background: #feda6a;
-    border: 2px solid #feda6a;
-    outline:none;
-    border-radius: 6px;
-    font-size: 16px;
-    color:#fff;
-    font-weight: 600;
-    margin: 0 20px 20px;
-    cursor:pointer;
-    transition: .5s;
+
 }
 .buttons button:nth-child(1):hover {
     background: #feda6a;
